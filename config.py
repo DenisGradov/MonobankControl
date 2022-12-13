@@ -1,0 +1,2 @@
+BotToken='Token'
+AdminId=Id
