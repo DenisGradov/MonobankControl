@@ -3,6 +3,8 @@ View information via Monobank API. Installing libraries
 
 >pip install monobank
 
+>pip install requests
+
 Let's go into config.py and set it up. BotToken - bot's telegram token from @botfather. AdminId - admin id from @userinfobot. Run main.py to activate the bot
 When bot first run - it will ask you to add api token mono (if you do not know where to get it - there is a button with hint). If the token is valid - the bot will add it to the bot. Further tokens can be added through the menu, there are no limits. Just in the menu and can delete tokens. When adding a token - it can be given a name (but you can also skip)
 
